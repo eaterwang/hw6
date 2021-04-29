@@ -1,0 +1,36 @@
+.container{
+	max-width: 960px;
+	margin: 0 auto;
+	background-color: black;
+	color: white;
+	font-size: 26px;
+	padding: 50px;
+}
+
+.plx{
+	background: url('../img/jing.JPG') no-repeat center;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 500px;
+}
+
+.plxi{
+	background: url('../img/poster.jpg') no-repeat center;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 700px;
+}
+
+.plxii{
+	background: url('../img/graffiti.jpg') no-repeat center;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 500px;
+}
+
+.plxiii{
+	background: url('../img/ponpon.jpg') no-repeat center;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 500px;
+}
